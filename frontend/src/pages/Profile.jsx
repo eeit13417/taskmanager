@@ -11,7 +11,7 @@ const Profile = () => {
     address: '',
   });
   const [loading, setLoading] = useState(false);
- //  test1
+ //  test2
   useEffect(() => {
     // Fetch profile data from the backend
     const fetchProfile = async () => {
